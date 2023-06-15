@@ -46,7 +46,7 @@ This is a Java application built using JavaFX that allows you to browse and copy
 
 ### Screenshots
 
-![Screenshot from 2023-06-16 02-12-26.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-06-16%2002-12-26.png)
+![Screenshot from 2023-06-16 02-12-26](https://github.com/PasinduHash/file-copying-application/assets/117537549/73fc3c54-4ab0-40e5-a819-0c08f895990c)
 
 ### Contributing
 
